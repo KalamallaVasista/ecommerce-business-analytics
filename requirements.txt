@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+kagglehub

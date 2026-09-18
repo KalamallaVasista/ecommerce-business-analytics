@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+
+# Python generated files
+__pycache__/
+*.py[cod]
+
+# Environment variables and database credentials
+.env
+
+# Raw and processed datasets
+data/raw/*.csv
+data/processed/*.csv
+
+# Power BI temporary files
+*.pbit.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
